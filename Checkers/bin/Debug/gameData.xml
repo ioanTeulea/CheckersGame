@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Board>
+    <Pieces>
+      <Piece X="1" Y="0" IsKing="false" ImagePath="/Assets/Images/redPieceS.png" />
+      <Piece X="3" Y="0" IsKing="false" ImagePath="/Assets/Images/redPieceS.png" />
+      <Piece X="5" Y="0" IsKing="false" ImagePath="/Assets/Images/redPieceS.png" />
+      <Piece X="0" Y="1" IsKing="false" ImagePath="/Assets/Images/redPieceS.png" />
+      <Piece X="2" Y="1" IsKing="false" ImagePath="/Assets/Images/redPieceS.png" />
+      <Piece X="4" Y="1" IsKing="false" ImagePath="/Assets/Images/redPieceS.png" />
+      <Piece X="7" Y="2" IsKing="false" ImagePath="/Assets/Images/redPieceS.png" />
+      <Piece X="0" Y="3" IsKing="false" ImagePath="/Assets/Images/redPieceS.png" />
+      <Piece X="6" Y="3" IsKing="false" ImagePath="/Assets/Images/redPieceS.png" />
+      <Piece X="1" Y="4" IsKing="false" ImagePath="/Assets/Images/blackPieceS.png" />
+      <Piece X="7" Y="0" IsKing="true" ImagePath="/Assets/Images/blackPieceK.png" />
+      <Piece X="3" Y="2" IsKing="false" ImagePath="/Assets/Images/blackPieceS.png" />
+      <Piece X="7" Y="4" IsKing="false" ImagePath="/Assets/Images/blackPieceS.png" />
+      <Piece X="1" Y="6" IsKing="false" ImagePath="/Assets/Images/blackPieceS.png" />
+      <Piece X="3" Y="6" IsKing="false" ImagePath="/Assets/Images/blackPieceS.png" />
+      <Piece X="4" Y="5" IsKing="false" ImagePath="/Assets/Images/blackPieceS.png" />
+      <Piece X="7" Y="6" IsKing="false" ImagePath="/Assets/Images/blackPieceS.png" />
+      <Piece X="0" Y="7" IsKing="false" ImagePath="/Assets/Images/blackPieceS.png" />
+      <Piece X="2" Y="7" IsKing="false" ImagePath="/Assets/Images/blackPieceS.png" />
+      <Piece X="4" Y="7" IsKing="false" ImagePath="/Assets/Images/blackPieceS.png" />
+      <Piece X="6" Y="7" IsKing="false" ImagePath="/Assets/Images/blackPieceS.png" />
+    </Pieces>
+    <RedPieceCount>9</RedPieceCount>
+    <BlackPieceCount>12</BlackPieceCount>
+  </Board>
+  <GridPositions />
+  <CurrentPlayerColor>/Assets/Images/red</CurrentPlayerColor>
+  <IsMultipleJumpsSelected>true</IsMultipleJumpsSelected>
+</Game>
